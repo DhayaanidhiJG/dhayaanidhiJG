@@ -9,7 +9,7 @@ I am a professional **Embedded Systems Engineer** with **4 years of industry exp
 
 - **Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Embedded & IoT:** RTOS (FreeRTOS), MQTT, ESP32, Bare-metal Development, Edge Computing.
-- **Hardware/Architectures**: ARM Cortex-M, ESP32, STM32.
+- **Hardware/Architectures**: ARM Cortex-M, ESP32, STM32, Raspberry Pi.
 - **Automotive:** Doppler Radar Processing, AUTOSAR concepts, ECU Development.
 - **Tools:** Git, CMake, GDB, DaVinci Resolve (Technical Documentation).
 
