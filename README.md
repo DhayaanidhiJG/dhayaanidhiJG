@@ -21,9 +21,15 @@ I am a professional **Embedded Systems Engineer** with **4 years of industry exp
 - **Academic Focus:** Currently researching advanced Automotive Sensing and Embedded Intelligence.
 - **Languages:** English (Professional), German (B1 Certified).
 
-  You can check the projects section for my real-time projects.
-
 ---
+
+## 🛠️ Featured Projects
+
+### [Embedded_WiFi_Gateway](https://github.com/DhayaanidhiJG/Embedded_WiFi_Gateway)
+**An optimized WiFi Access Point & IoT Gateway for Raspberry Pi 3B.**
+* Resolved **802.1X handshake timeouts** for modern iOS/macOS clients.
+* Implemented automated **hardware power-management tuning** via Shell scripts.
+* Configured for **DE (Germany)** regulatory compliance.
 
 ### 📫 Connect with me
 - 💼 [LinkedIn](www.linkedin.com/in/dhayaanidhijg)
