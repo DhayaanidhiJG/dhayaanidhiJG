@@ -21,6 +21,8 @@ I am a professional **Embedded Systems Engineer** with **4 years of industry exp
 - **Academic Focus:** Currently researching advanced Automotive Sensing and Embedded Intelligence.
 - **Languages:** English (Professional), German (B1 Certified).
 
+  You can check the projects section for my real-time projects.
+
 ---
 
 ### 📫 Connect with me
